@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sri2307
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Js Projects
+- 👀 I’m a Front End Web Developer
+- 🌱 Tech Stack - React, Next Js, Typescript, MUI, Micro Frontends
+- 💞️ I’m looking to collaborate on React Js/Next Js Projects
 - 📫 How to reach me ...
 
 <!---
