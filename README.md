@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sri2307
-- 👀 I’m a Front End Web Developer
-- 🌱 Tech Stack - React, Next Js, Typescript, MUI, Micro Frontends
+- 👀 I’m a Web Developer
+- 🌱 Tech Stack - React, Next Js, Typescript, MUI, Micro Frontends, Nest Js
 - 💞️ I’m looking to collaborate on React Js/Next Js Projects
 - 📫 How to reach me ...
 
